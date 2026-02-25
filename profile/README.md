@@ -1,7 +1,7 @@
 # Live Every Week Labs — Open Source
 
 Welcome to **Live Every Week Labs**’ open-source corner 👋  
-This org is where we publish and maintain the tools, libraries, and experiments we build in public.
+This is where we publish and maintain the tools, libraries, and experiments we build in public.
 
 ## What you'll find here
 
